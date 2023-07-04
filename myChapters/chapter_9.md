@@ -1,2 +1,2 @@
-# 9. Discover Distributions 
+#  Discover Distributions 
 

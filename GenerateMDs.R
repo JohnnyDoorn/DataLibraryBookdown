@@ -18,7 +18,7 @@ for (i in seq_along(analysisList)) {
     bullet_list <- ""
     for (item in item_list) {
       bullet_point <- paste0(" ", paste(item, collapse = " "))
-      bullet_list <- paste(bullet_list, bullet_point, sep = " | ")
+      bullet_list <- paste(bullet_list, paste("|", item, "|"), sep = " ")
     }
     
     # P

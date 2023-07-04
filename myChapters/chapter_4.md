@@ -1,45 +1,45 @@
-# 4. Regression 
+#  Regression 
 
 
 
 ## Adam Sandler 
- |  [.jasp](https://github.com/jasp-stats/jasp-data-library/raw/main/Adam%20Sandler/Adam%20Sandler.jasp) |  [.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/Adam%20Sandler/index.html) |  [.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/Adam%20Sandler/Adam%20Sandler.csv)
+ | [.jasp](https://github.com/jasp-stats/jasp-data-library/raw/main/Adam%20Sandler/Adam%20Sandler.jasp) | | [.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/Adam%20Sandler/index.html) | | [.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/Adam%20Sandler/Adam%20Sandler.csv) |
 
 ## Album Sales 
- |  [.jasp](https://github.com/jasp-stats/jasp-data-library/raw/main/Album%20Sales/Album%20Sales.jasp) |  [.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/Album%20Sales/index.html) |  [.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/Album%20Sales/Album%20Sales.csv)
+ | [.jasp](https://github.com/jasp-stats/jasp-data-library/raw/main/Album%20Sales/Album%20Sales.jasp) | | [.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/Album%20Sales/index.html) | | [.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/Album%20Sales/Album%20Sales.csv) |
 
 ## Auction 
- |  [.jasp](https://github.com/jasp-stats/jasp-data-library/raw/main/Auction/Auction.jasp) |  [.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/Auction/index.html) |  [.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/Auction/Auction.csv)
+ | [.jasp](https://github.com/jasp-stats/jasp-data-library/raw/main/Auction/Auction.jasp) | | [.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/Auction/index.html) | | [.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/Auction/Auction.csv) |
 
 ## Big Five Personality Traits 
- |  [.jasp](https://github.com/jasp-stats/jasp-data-library/raw/main/Big%20Five%20Personality%20Traits/Big%20Five%20Personality%20Traits.jasp) |  [.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/Big%20Five%20Personality%20Traits/index.html) |  [.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/Big%20Five%20Personality%20Traits/Big%20Five%20Personality%20Traits.csv)
+ | [.jasp](https://github.com/jasp-stats/jasp-data-library/raw/main/Big%20Five%20Personality%20Traits/Big%20Five%20Personality%20Traits.jasp) | | [.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/Big%20Five%20Personality%20Traits/index.html) | | [.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/Big%20Five%20Personality%20Traits/Big%20Five%20Personality%20Traits.csv) |
 
 ## College Success 
- |  [.jasp](https://github.com/jasp-stats/jasp-data-library/raw/main/College%20Success/College%20Success.jasp) |  [.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/College%20Success/index.html) |  [.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/College%20Success/College%20Success.csv)
+ | [.jasp](https://github.com/jasp-stats/jasp-data-library/raw/main/College%20Success/College%20Success.jasp) | | [.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/College%20Success/index.html) | | [.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/College%20Success/College%20Success.csv) |
 
 ## Exam Anxiety 
- |  [.jasp](https://github.com/jasp-stats/jasp-data-library/raw/main/Exam%20Anxiety/Exam%20Anxiety.jasp) |  [.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/Exam%20Anxiety/index.html) |  [.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/Exam%20Anxiety/Exam%20Anxiety.csv)
+ | [.jasp](https://github.com/jasp-stats/jasp-data-library/raw/main/Exam%20Anxiety/Exam%20Anxiety.jasp) | | [.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/Exam%20Anxiety/index.html) | | [.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/Exam%20Anxiety/Exam%20Anxiety.csv) |
 
 ## Fidgeting and Fat Gain 
- |  [.jasp](https://github.com/jasp-stats/jasp-data-library/raw/main/Fidgeting%20and%20Fat%20Gain/Fidgeting%20and%20Fat%20Gain.jasp) |  [.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/Fidgeting%20and%20Fat%20Gain/index.html) |  [.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/Fidgeting%20and%20Fat%20Gain/Fidgeting%20and%20Fat%20Gain.csv)
+ | [.jasp](https://github.com/jasp-stats/jasp-data-library/raw/main/Fidgeting%20and%20Fat%20Gain/Fidgeting%20and%20Fat%20Gain.jasp) | | [.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/Fidgeting%20and%20Fat%20Gain/index.html) | | [.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/Fidgeting%20and%20Fat%20Gain/Fidgeting%20and%20Fat%20Gain.csv) |
 
 ## Glasgow Norms 
- |  [.jasp](https://github.com/jasp-stats/jasp-data-library/raw/main/Glasgow%20Norms/Glasgow%20Norms.jasp) |  [.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/Glasgow%20Norms/index.html) |  [.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/Glasgow%20Norms/Glasgow%20Norms.csv)
+ | [.jasp](https://github.com/jasp-stats/jasp-data-library/raw/main/Glasgow%20Norms/Glasgow%20Norms.jasp) | | [.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/Glasgow%20Norms/index.html) | | [.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/Glasgow%20Norms/Glasgow%20Norms.csv) |
 
 ## Physical Activity and BMI 
- |  [.jasp](https://github.com/jasp-stats/jasp-data-library/raw/main/Physical%20Activity%20and%20BMI/Physical%20Activity%20and%20BMI.jasp) |  [.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/Physical%20Activity%20and%20BMI/index.html) |  [.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/Physical%20Activity%20and%20BMI/Physical%20Activity%20and%20BMI.csv)
+ | [.jasp](https://github.com/jasp-stats/jasp-data-library/raw/main/Physical%20Activity%20and%20BMI/Physical%20Activity%20and%20BMI.jasp) | | [.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/Physical%20Activity%20and%20BMI/index.html) | | [.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/Physical%20Activity%20and%20BMI/Physical%20Activity%20and%20BMI.csv) |
 
 ## Presidents' Height 
- |  [.jasp](https://github.com/jasp-stats/jasp-data-library/raw/main/Presidents'%20Height/Presidents'%20Height.jasp) |  [.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/Presidents'%20Height/index.html) |  [.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/Presidents'%20Height/Presidents'%20Height.csv)
+ | [.jasp](https://github.com/jasp-stats/jasp-data-library/raw/main/Presidents'%20Height/Presidents'%20Height.jasp) | | [.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/Presidents'%20Height/index.html) | | [.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/Presidents'%20Height/Presidents'%20Height.csv) |
 
 ## The Biggest Liar 
- |  [.jasp](https://github.com/jasp-stats/jasp-data-library/raw/main/The%20Biggest%20Liar/The%20Biggest%20Liar.jasp) |  [.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/The%20Biggest%20Liar/index.html) |  [.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/The%20Biggest%20Liar/The%20Biggest%20Liar.csv)
+ | [.jasp](https://github.com/jasp-stats/jasp-data-library/raw/main/The%20Biggest%20Liar/The%20Biggest%20Liar.jasp) | | [.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/The%20Biggest%20Liar/index.html) | | [.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/The%20Biggest%20Liar/The%20Biggest%20Liar.csv) |
 
 ## Titanic 
- |  [.jasp](https://github.com/jasp-stats/jasp-data-library/raw/main/Titanic/Titanic.jasp) |  [.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/Titanic/index.html) |  [.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/Titanic/Titanic.csv)
+ | [.jasp](https://github.com/jasp-stats/jasp-data-library/raw/main/Titanic/Titanic.jasp) | | [.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/Titanic/index.html) | | [.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/Titanic/Titanic.csv) |
 
 ## Turbines 
- |  [.jasp](https://github.com/jasp-stats/jasp-data-library/raw/main/Turbines/Turbines.jasp) |  [.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/Turbines/index.html) |  [.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/Turbines/Turbines.csv)
+ | [.jasp](https://github.com/jasp-stats/jasp-data-library/raw/main/Turbines/Turbines.jasp) | | [.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/Turbines/index.html) | | [.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/Turbines/Turbines.csv) |
 
 ## World Happiness 
- |  [.jasp](https://github.com/jasp-stats/jasp-data-library/raw/main/World%20Happiness/World%20Happiness.jasp) |  [.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/World%20Happiness/index.html) |  [.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/World%20Happiness/World%20Happiness.csv)
+ | [.jasp](https://github.com/jasp-stats/jasp-data-library/raw/main/World%20Happiness/World%20Happiness.jasp) | | [.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/World%20Happiness/index.html) | | [.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/World%20Happiness/World%20Happiness.csv) |
