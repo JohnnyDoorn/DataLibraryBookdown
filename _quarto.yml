@@ -38,3 +38,4 @@ format:
 
 editor: visual
 new_session: no
+render_options: {self_contained: true, preserve_index: true}
