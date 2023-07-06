@@ -38,4 +38,5 @@ format:
 
 editor: visual
 new_session: no
+url_sanitize: false
 render_options: {self_contained: true, preserve_index: true}

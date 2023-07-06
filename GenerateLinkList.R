@@ -16,8 +16,6 @@ for (thisFile in allFiles) {
     
     csvLink <- "[.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/FILENAMEHERE/FILENAMEHERE.csv)"
     
-    
-    
     myFileLinks[[thisFile]] <- list(jaspLink = gsub(x = jaspLink, pattern = "FILENAMEHERE", replacement = noSpaceFileName),
                                     htmlLink = gsub(x = htmlLink, pattern = "FILENAMEHERE", replacement = noSpaceFileName),
                                     csvLink = gsub(x = csvLink, pattern = "FILENAMEHERE", replacement = noSpaceFileName))
