@@ -1,0 +1,667 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Preface",
+    "section": "",
+    "text": "Preface\nBla bla bla"
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Introduction\nThis is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "myChapters/chapter_11.html",
+    "href": "myChapters/chapter_11.html",
+    "title": "Meta-Analysis",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_11.html#bcg-vaccine",
+    "href": "myChapters/chapter_11.html#bcg-vaccine",
+    "title": "Meta-Analysis",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_15.html",
+    "href": "myChapters/chapter_15.html",
+    "title": "Prophet",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_15.html#jasp-webpage-visits",
+    "href": "myChapters/chapter_15.html#jasp-webpage-visits",
+    "title": "Prophet",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_8.html",
+    "href": "myChapters/chapter_8.html",
+    "title": "Bain",
+    "section": "",
+    "text": "Bain"
+  },
+  {
+    "objectID": "myChapters/chapter_9.html",
+    "href": "myChapters/chapter_9.html",
+    "title": "Discover Distributions",
+    "section": "",
+    "text": "Discover Distributions"
+  },
+  {
+    "objectID": "myChapters/chapter_14.html",
+    "href": "myChapters/chapter_14.html",
+    "title": "SEM",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_14.html#grand-point-average",
+    "href": "myChapters/chapter_14.html#grand-point-average",
+    "title": "SEM",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_14.html#political-democracy",
+    "href": "myChapters/chapter_14.html#political-democracy",
+    "title": "SEM",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_14.html#social-participation",
+    "href": "myChapters/chapter_14.html#social-participation",
+    "title": "SEM",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_10.html",
+    "href": "myChapters/chapter_10.html",
+    "title": "Machine Learning",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_10.html#iris",
+    "href": "myChapters/chapter_10.html#iris",
+    "title": "Machine Learning",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_10.html#penguins",
+    "href": "myChapters/chapter_10.html#penguins",
+    "title": "Machine Learning",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_10.html#policecadetevaluation",
+    "href": "myChapters/chapter_10.html#policecadetevaluation",
+    "title": "Machine Learning",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_10.html#spiral",
+    "href": "myChapters/chapter_10.html#spiral",
+    "title": "Machine Learning",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_10.html#studentgrades",
+    "href": "myChapters/chapter_10.html#studentgrades",
+    "title": "Machine Learning",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_10.html#telcocustomerchurn",
+    "href": "myChapters/chapter_10.html#telcocustomerchurn",
+    "title": "Machine Learning",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_10.html#wine",
+    "href": "myChapters/chapter_10.html#wine",
+    "title": "Machine Learning",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_6.html",
+    "href": "myChapters/chapter_6.html",
+    "title": "Factor",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_6.html#g-factor",
+    "href": "myChapters/chapter_6.html#g-factor",
+    "title": "Factor",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_6.html#mental-ability",
+    "href": "myChapters/chapter_6.html#mental-ability",
+    "title": "Factor",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_2.html",
+    "href": "myChapters/chapter_2.html",
+    "title": "T-Tests",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_2.html#directed-reading-activities",
+    "href": "myChapters/chapter_2.html#directed-reading-activities",
+    "title": "T-Tests",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_2.html#eye-movements",
+    "href": "myChapters/chapter_2.html#eye-movements",
+    "title": "T-Tests",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_2.html#invisibility-cloak",
+    "href": "myChapters/chapter_2.html#invisibility-cloak",
+    "title": "T-Tests",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_2.html#kitchen-rolls",
+    "href": "myChapters/chapter_2.html#kitchen-rolls",
+    "title": "T-Tests",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_2.html#moon-and-aggression",
+    "href": "myChapters/chapter_2.html#moon-and-aggression",
+    "title": "T-Tests",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_2.html#stereograms",
+    "href": "myChapters/chapter_2.html#stereograms",
+    "title": "T-Tests",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_2.html#weight-gain",
+    "href": "myChapters/chapter_2.html#weight-gain",
+    "title": "T-Tests",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_3.html",
+    "href": "myChapters/chapter_3.html",
+    "title": "ANOVA",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_3.html#alcohol-attitudes",
+    "href": "myChapters/chapter_3.html#alcohol-attitudes",
+    "title": "ANOVA",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_3.html#beer-goggles",
+    "href": "myChapters/chapter_3.html#beer-goggles",
+    "title": "ANOVA",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_3.html#bugs",
+    "href": "myChapters/chapter_3.html#bugs",
+    "title": "ANOVA",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_3.html#bush-tucker-food",
+    "href": "myChapters/chapter_3.html#bush-tucker-food",
+    "title": "ANOVA",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_3.html#erotic-pictures-and-love",
+    "href": "myChapters/chapter_3.html#erotic-pictures-and-love",
+    "title": "ANOVA",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_3.html#facebook-friends",
+    "href": "myChapters/chapter_3.html#facebook-friends",
+    "title": "ANOVA",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_3.html#heart-rate",
+    "href": "myChapters/chapter_3.html#heart-rate",
+    "title": "ANOVA",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_3.html#looks-or-personality",
+    "href": "myChapters/chapter_3.html#looks-or-personality",
+    "title": "ANOVA",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_3.html#pain-thresholds",
+    "href": "myChapters/chapter_3.html#pain-thresholds",
+    "title": "ANOVA",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_3.html#response-to-eye-color",
+    "href": "myChapters/chapter_3.html#response-to-eye-color",
+    "title": "ANOVA",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_3.html#singers",
+    "href": "myChapters/chapter_3.html#singers",
+    "title": "ANOVA",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_3.html#stroop",
+    "href": "myChapters/chapter_3.html#stroop",
+    "title": "ANOVA",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_3.html#tooth-growth",
+    "href": "myChapters/chapter_3.html#tooth-growth",
+    "title": "ANOVA",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_3.html#viagra",
+    "href": "myChapters/chapter_3.html#viagra",
+    "title": "ANOVA",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_7.html",
+    "href": "myChapters/chapter_7.html",
+    "title": "Audit",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_7.html#sinoforest",
+    "href": "myChapters/chapter_7.html#sinoforest",
+    "title": "Audit",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_19.html",
+    "href": "myChapters/chapter_19.html",
+    "title": "Books",
+    "section": "",
+    "text": "Books"
+  },
+  {
+    "objectID": "myChapters/chapter_4.html",
+    "href": "myChapters/chapter_4.html",
+    "title": "Regression",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_4.html#adam-sandler",
+    "href": "myChapters/chapter_4.html#adam-sandler",
+    "title": "Regression",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_4.html#album-sales",
+    "href": "myChapters/chapter_4.html#album-sales",
+    "title": "Regression",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_4.html#auction",
+    "href": "myChapters/chapter_4.html#auction",
+    "title": "Regression",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_4.html#big-five-personality-traits",
+    "href": "myChapters/chapter_4.html#big-five-personality-traits",
+    "title": "Regression",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_4.html#college-success",
+    "href": "myChapters/chapter_4.html#college-success",
+    "title": "Regression",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_4.html#exam-anxiety",
+    "href": "myChapters/chapter_4.html#exam-anxiety",
+    "title": "Regression",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_4.html#fidgeting-and-fat-gain",
+    "href": "myChapters/chapter_4.html#fidgeting-and-fat-gain",
+    "title": "Regression",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_4.html#glasgow-norms",
+    "href": "myChapters/chapter_4.html#glasgow-norms",
+    "title": "Regression",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_4.html#physical-activity-and-bmi",
+    "href": "myChapters/chapter_4.html#physical-activity-and-bmi",
+    "title": "Regression",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_4.html#presidents-height",
+    "href": "myChapters/chapter_4.html#presidents-height",
+    "title": "Regression",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_4.html#the-biggest-liar",
+    "href": "myChapters/chapter_4.html#the-biggest-liar",
+    "title": "Regression",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_4.html#titanic",
+    "href": "myChapters/chapter_4.html#titanic",
+    "title": "Regression",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_4.html#turbines",
+    "href": "myChapters/chapter_4.html#turbines",
+    "title": "Regression",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_4.html#world-happiness",
+    "href": "myChapters/chapter_4.html#world-happiness",
+    "title": "Regression",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_5.html",
+    "href": "myChapters/chapter_5.html",
+    "title": "Frequencies",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_5.html#dancing-cats-and-dogs",
+    "href": "myChapters/chapter_5.html#dancing-cats-and-dogs",
+    "title": "Frequencies",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_5.html#dancing-cats",
+    "href": "myChapters/chapter_5.html#dancing-cats",
+    "title": "Frequencies",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_5.html#death-penalty",
+    "href": "myChapters/chapter_5.html#death-penalty",
+    "title": "Frequencies",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_5.html#emily-rosa",
+    "href": "myChapters/chapter_5.html#emily-rosa",
+    "title": "Frequencies",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_5.html#health-habits",
+    "href": "myChapters/chapter_5.html#health-habits",
+    "title": "Frequencies",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_5.html#hungry-zombies",
+    "href": "myChapters/chapter_5.html#hungry-zombies",
+    "title": "Frequencies",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_5.html#listerism",
+    "href": "myChapters/chapter_5.html#listerism",
+    "title": "Frequencies",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_5.html#memory-of-life-stresses",
+    "href": "myChapters/chapter_5.html#memory-of-life-stresses",
+    "title": "Frequencies",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_5.html#mooc-bias",
+    "href": "myChapters/chapter_5.html#mooc-bias",
+    "title": "Frequencies",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_5.html#sun-block-lotions",
+    "href": "myChapters/chapter_5.html#sun-block-lotions",
+    "title": "Frequencies",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_18.html",
+    "href": "myChapters/chapter_18.html",
+    "title": "Miscellaneous",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_18.html#anscombes-quartet",
+    "href": "myChapters/chapter_18.html#anscombes-quartet",
+    "title": "Miscellaneous",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_18.html#missing-data",
+    "href": "myChapters/chapter_18.html#missing-data",
+    "title": "Miscellaneous",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_18.html#the-datasaurus-dozen-long",
+    "href": "myChapters/chapter_18.html#the-datasaurus-dozen-long",
+    "title": "Miscellaneous",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_18.html#the-datasaurus-dozen-wide",
+    "href": "myChapters/chapter_18.html#the-datasaurus-dozen-wide",
+    "title": "Miscellaneous",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_1.html",
+    "href": "myChapters/chapter_1.html",
+    "title": "Descriptives",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_1.html#sleep",
+    "href": "myChapters/chapter_1.html#sleep",
+    "title": "Descriptives",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_17.html",
+    "href": "myChapters/chapter_17.html",
+    "title": "Mixed Models",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_17.html#larks-and-owls",
+    "href": "myChapters/chapter_17.html#larks-and-owls",
+    "title": "Mixed Models",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_13.html",
+    "href": "myChapters/chapter_13.html",
+    "title": "Reliability",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |\n\n\n\n| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_13.html#asrm---mania-scale",
+    "href": "myChapters/chapter_13.html#asrm---mania-scale",
+    "title": "Reliability",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_13.html#fear-of-statistics",
+    "href": "myChapters/chapter_13.html#fear-of-statistics",
+    "title": "Reliability",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_13.html#interrater-data-from-shrout-and-fleiss-1979",
+    "href": "myChapters/chapter_13.html#interrater-data-from-shrout-and-fleiss-1979",
+    "title": "Reliability",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_12.html",
+    "href": "myChapters/chapter_12.html",
+    "title": "Network Analysis",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_12.html#bfi-network",
+    "href": "myChapters/chapter_12.html#bfi-network",
+    "title": "Network Analysis",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_16.html",
+    "href": "myChapters/chapter_16.html",
+    "title": "Circular Statistics",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "myChapters/chapter_16.html#el-nino",
+    "href": "myChapters/chapter_16.html#el-nino",
+    "title": "Circular Statistics",
+    "section": "",
+    "text": "| .jasp | | .html | | .csv |"
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "Summary",
+    "section": "",
+    "text": "Summary\nIn summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "quartoChapterTemplate.html",
+    "href": "quartoChapterTemplate.html",
+    "title": "r params$chapter_title",
+    "section": "",
+    "text": "r params$chapter_title\nr params$chapter_content"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "References"
+  }
+]

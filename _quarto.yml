@@ -1,6 +1,7 @@
 project:
-  type: book
-
+  type: website
+  output-dir: docs
+  
 book:
   title: "DataLibraryQuarto"
   author: "Johnny van Doorn"
@@ -37,4 +38,3 @@ format:
 
 editor: visual
 new_session: no
-
