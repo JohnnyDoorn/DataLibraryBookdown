@@ -4,7 +4,9 @@ for (i in seq_along(analysisList)) {
   chapterList <- analysisList[[i]]
   chapterTitle <- names(analysisList)[i]
   file_name <- paste0("myChapters/chapter_", i, ".md")
-  
+  # Remove numbers before a period using regular expressions
+  chapterTitle <- gsub("\\d+\\.", "", chapterTitle)
+
   cat(paste("#", chapterTitle, "\n\n"), file = file_name)
   
   
