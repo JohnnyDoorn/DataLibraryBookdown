@@ -9,15 +9,17 @@ for (thisFile in allFiles) {
   if (paste0(thisFile, ".jasp") %in% subFiles) {
     
     noSpaceFileName <- gsub(x = thisFile, pattern =" ", replacement = "%20")
-    
+    underscoreFileName <- gsub(x = thisFile, pattern =" ", replacement = "_")
+
     jaspLink <- "[.jasp](https://github.com/jasp-stats/jasp-data-library/raw/main/FILENAMEHERE/FILENAMEHERE.jasp)"
     
-    htmlLink <- "[.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/FILENAMEHERE/index.html)"
+    htmlLink <- "[.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/FILENAMEHERE/FILENAMEUNDERSCOREHERE.html)"
     
     csvLink <- "[.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/FILENAMEHERE/FILENAMEHERE.csv)"
     
     myFileLinks[[thisFile]] <- list(jaspLink = gsub(x = jaspLink, pattern = "FILENAMEHERE", replacement = noSpaceFileName),
-                                    htmlLink = gsub(x = htmlLink, pattern = "FILENAMEHERE", replacement = noSpaceFileName),
+                                    htmlLink = gsub(x = gsub(x = htmlLink, pattern = "FILENAMEHERE", replacement = noSpaceFileName), 
+                                                    pattern = "FILENAMEUNDERSCOREHERE", replacement = underscoreFileName),
                                     csvLink = gsub(x = csvLink, pattern = "FILENAMEHERE", replacement = noSpaceFileName))
     
   }
