@@ -1,4 +1,9 @@
+# Source GenerateLinkList.R first!
 analysisList
+
+# Used for matching the book links:
+unlistedAnalysisList <- unlist(analysisList, recursive = F)
+unlistedDataNamesList <- unlist(lapply(analysisList, names))
 
 for (i in seq_along(analysisList)) {
   chapterList <- analysisList[[i]]
@@ -10,7 +15,10 @@ for (i in seq_along(analysisList)) {
   cat(paste("#", chapterTitle, "\n\n"), file = file_name)
   
   
-  for (thisDataName in names(chapterList)) {
+  allDataNames <- names(chapterList)
+  
+
+  for (thisDataName in allDataNames) {
     cat(paste("\n\n##", thisDataName, "\n"), file = file_name, append = TRUE)
     # chapter_content <- chapterList[[thisDataName]][[1]]
     # cat(chapter_content, file = file_name, append = TRUE)
@@ -28,16 +36,32 @@ for (i in seq_along(analysisList)) {
   }
   
   if (chapterTitle == "Books") {
-    bookTitles <- c("Field - Discovering Statistics",
-                    "Moore, McCabe, & Craig - Introduction to the Practice of Statistics")
+        
     for (thisBook in bookTitles) {
       
       cat(paste("\n\n##", thisBook, "\n"), file = file_name, append = TRUE)
-      thisFile <- gsub(x = "~/GitHubStuff/jasp-desktop/Resources/Data Sets/Data Library/Books/INSERTBOOKTITLE/license.txt", 
-                       pattern = 'INSERTBOOKTITLE',
-                       replacement = thisBook)
-      x <- readChar(thisFile, file.info(thisFile)$size)
-      cat(x,  file = file_name, append = TRUE)
+      
+      allDataNames <- bookDatasets[[thisBook]]
+      
+      matchedBookDataList <- unlistedAnalysisList[match(allDataNames, unlistedDataNamesList)]
+      
+      for (thisDataName in names(matchedBookDataList)) {
+
+        cat(paste("\n\n###", sub(".*\\.", "", thisDataName), "\n"), file = file_name, append = TRUE)
+        # chapter_content <- chapterList[[thisDataName]][[1]]
+        # cat(chapter_content, file = file_name, append = TRUE)
+        
+        item_list <- matchedBookDataList[[thisDataName]]
+        
+        bullet_list <- ""
+        for (item in item_list) {
+          bullet_point <- paste0(" ", paste(item, collapse = " "))
+          bullet_list <- paste(bullet_list, paste("|", item, "|"), sep = " ")
+        }
+        
+        cat(bullet_list, file = file_name, append = TRUE)
+        
+      }
     }
   }
 

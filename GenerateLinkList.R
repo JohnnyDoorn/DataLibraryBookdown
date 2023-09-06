@@ -69,3 +69,31 @@ for (thisAnalysis in analysisNames) {
   }
 }
 
+
+### Extra information for the books
+bookTitles <- c("Field - Discovering Statistics",
+                "Moore, McCabe, & Craig - Introduction to the Practice of Statistics")
+
+bookDatasets <- list('Field - Discovering Statistics' = c("Fear of Statistics",
+                                                          "Invisibility Cloak",
+                                                          "Alcohol Attitudes",
+                                                          "Beer Goggles",
+                                                          "Bush Tucker Food",
+                                                          "Looks or Personality",
+                                                          "Viagra",
+                                                          "Album Sales",
+                                                          "Exam Anxiety",
+                                                          "The Biggest Liar",
+                                                          "Dancing Cats",
+                                                          "Dancing Cats and Dogs"),
+                     'Moore, McCabe, & Craig - Introduction to the Practice of Statistics' = c("Directed Reading Activities",
+                                                                                               "Moon and Aggression",
+                                                                                               "Weight Gain",
+                                                                                               "Facebook Friends",
+                                                                                               "Heart Rate",
+                                                                                               "Response to Eye Color",
+                                                                                               "College Success",
+                                                                                               "Fidgeting and Fat Gain",
+                                                                                               "Physical Activity and BMI",
+                                                                                               "Health Habits")
+)
