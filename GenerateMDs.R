@@ -23,20 +23,22 @@ for (i in seq_along(analysisList)) {
       bullet_list <- paste(bullet_list, paste("|", item, "|"), sep = " ")
     }
     
-    # P
-    # table_rows <- ""
-    # for (item in item_list) {
-    #   table_row <- paste0("| ", paste(item, collapse = " | "), " |")
-    #   table_rows <- paste(table_rows, table_row, sep = " ")
-    # }
-    # 
-    # table_header <- "|  |  |  | "
-    # table_separator <- "| --- | --- | --- |"
-    # table <- paste(table_header, table_separator, table_rows, sep = " ")
-    # 
-    # Print the table
     cat(bullet_list, file = file_name, append = TRUE)
     
+  }
+  
+  if (chapterTitle == "Books") {
+    bookTitles <- c("Field - Discovering Statistics",
+                    "Moore, McCabe, & Craig - Introduction to the Practice of Statistics")
+    for (thisBook in bookTitles) {
+      
+      cat(paste("\n\n##", thisBook, "\n"), file = file_name, append = TRUE)
+      thisFile <- gsub(x = "~/GitHubStuff/jasp-desktop/Resources/Data Sets/Data Library/Books/INSERTBOOKTITLE/license.txt", 
+                       pattern = 'INSERTBOOKTITLE',
+                       replacement = thisBook)
+      x <- readChar(thisFile, file.info(thisFile)$size)
+      cat(x,  file = file_name, append = TRUE)
+    }
   }
 
 }
