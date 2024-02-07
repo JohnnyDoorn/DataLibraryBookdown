@@ -21,3 +21,8 @@
 |  |  |  |
 |---|---|---|
 |[.jasp](https://github.com/jasp-stats/jasp-data-library/raw/main/The%20Datasaurus%20Dozen%20(Wide)/The%20Datasaurus%20Dozen%20(Wide).jasp) | [.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/The%20Datasaurus%20Dozen%20(Wide)/The_Datasaurus_Dozen_(Wide).html) | [.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/The%20Datasaurus%20Dozen%20(Wide)/The%20Datasaurus%20Dozen%20(Wide).csv)|
+
+## Water Tasting 
+|  |  |  |
+|---|---|---|
+|[.jasp](https://github.com/jasp-stats/jasp-data-library/raw/main/Water%20Tasting/Water%20Tasting.jasp) | [.html](https://htmlpreview.github.io/?https://github.com/jasp-stats/jasp-data-library/blob/main/Water%20Tasting/Water_Tasting.html) | [.csv](https://raw.githubusercontent.com/jasp-stats/jasp-data-library/main/Water%20Tasting/Water%20Tasting.csv)|
